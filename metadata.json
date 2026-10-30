@@ -1,0 +1,6 @@
+{
+  "name": "ProSignal AI - All Games & Casino Intelligence Terminal",
+  "description": "Advanced real-time AI and algorithmic signal predictor for casino, crash, color prediction, and sports games with live accuracy tracking, automated pattern scanner, and admin control console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
